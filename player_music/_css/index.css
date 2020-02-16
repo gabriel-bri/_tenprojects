@@ -1,0 +1,9 @@
+.wrap {
+	background: linear-gradient(#F037A5 -60%, #FAE62D 140%);
+	padding: 30%;
+}
+
+.container {
+	background-image: url(../_img/bg.svg);
+	background-repeat: no-repeat;
+}
